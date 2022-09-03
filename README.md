@@ -1,5 +1,8 @@
 # GeneralAutomations
 
+Tutorial video:
+https://www.youtube.com/watch?v=31wJJPZgWrQ
+
 -- Elk-stack:
      This automation will generate self-signed certificates for localhost using OpenSSL, add root cert to the trusted list and spin Elasticserch and Kibana containers with SSL implemented. Certgen.sh script is made to work with MacOS as well as Amazon linux OS.
       
